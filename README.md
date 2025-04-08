@@ -22,7 +22,7 @@
 
 ### Links
 
-- Live Site URL: [Add live site URL here](https://alfonsovidrio.github.io/product-preview-card-component/)
+- Live Site URL: [Product preview card](https://alfonsovidrio.github.io/product-preview-card-component/)
 
 ## My process
 
